@@ -22,7 +22,7 @@ const ImgSlider = (props) => {
 
       <Wrap>
         <a href='/home'>
-          <img src="/project-images/shoppies0.jpg" alt="" />
+          <img src="/project-images/shoppies1.jpg" alt="" />
         </a>
       </Wrap>
 
@@ -56,9 +56,10 @@ const ImgSlider = (props) => {
 
 const Carousel = styled(Slider)`
   margin-top: 20px;
+  margin-bottom: 20px;
   & > button {
     opacity: 0;
-    height: 100%;
+    height: 60%;
     width: 5vw;
     z-index: 1;
     &:hover {

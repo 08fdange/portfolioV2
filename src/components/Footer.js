@@ -38,7 +38,7 @@ const Icon = styled.a`
         height: 40px;
         transition: transform 330ms ease-in-out;
         &:hover {
-            transform: scale(2.0);
+            transform: scale(1.8);
         }
     }
 `

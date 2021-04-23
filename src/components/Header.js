@@ -67,8 +67,6 @@ const NavMenu = styled.div`
     margin: 0px;
     padding: 0px;
     position: relative;
-    margin-right: auto;
-    margin-left: 25px;
 
     a {
         display: flex;
